@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Ryan
+# :wave: Hi, I'm RyanLua, but you can call me Ryan
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -15,8 +15,6 @@ Currently, I have 2 public repositories on GitHub, [Shime](https://github.com/Ry
 ## :email: Contact
 
 You can contact me by sending a message to my Twitter handle [@RaenLua](https://twitter.com/RaenLua).
-
----
 
 <picture>
 <source
