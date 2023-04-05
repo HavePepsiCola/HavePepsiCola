@@ -1,4 +1,4 @@
-# :wave: Hi, I'm RyanLua, but you can call me Ryan
+# :wave: Hey, I'm Ryan
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
