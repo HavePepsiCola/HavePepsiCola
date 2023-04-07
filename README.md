@@ -1,9 +1,9 @@
 # :wave: Hey, I'm Ryan
 
-## :computer: About Me
-
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+## :computer: About Me
 
 I use GitHub for my projects and sometimes a bit of work. For now, I just develop on Roblox with Luau but I plan to expand into other languages and development platforms. You can follow me on Twitter [@RaenLua](https://twitter.com/RaenLua) if you want to keep up with my projects and work.
 
