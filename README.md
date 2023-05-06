@@ -3,7 +3,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-## :computer: About Me
+## :information_source: About Me
 
 I use GitHub for my projects and sometimes a bit of work. For now, I just develop on Roblox with Luau but I plan to expand into other languages and development platforms. You can follow me on Twitter [@RaenLua](https://twitter.com/RaenLua) if you want to keep up with my projects and work.
 
@@ -11,9 +11,9 @@ Currently, I have 2 public repositories on GitHub, [Shime](https://github.com/Ry
 
 ## :email: Contact
 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RaenLua)
 [![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox)](https://www.roblox.com/users/345072461/profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/RyanLua)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RaenLua)
 
 You can contact me by sending a message to my Twitter handle [@RaenLua](https://twitter.com/RaenLua).
 
