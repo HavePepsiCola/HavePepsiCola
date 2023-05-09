@@ -1,8 +1,9 @@
 # :wave: Hey, I'm Ryan
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RaenLua)
-[![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox)](https://www.roblox.com/users/345072461/profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/RyanLua)
+[![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox&logoColor=white)](https://www.roblox.com/users/345072461/profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/RyanLua)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/ET7k2nmU)
 
 ## About Me
 
