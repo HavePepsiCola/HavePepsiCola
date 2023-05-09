@@ -10,10 +10,8 @@ I use GitHub for my projects and sometimes a bit of work. For now, I just develo
 
 Currently, I have 2 public repositories on GitHub, [Shime](https://github.com/RyanLua/Shime), a module for creating shimmer effects on GuiObjects in Roblox and [Signs](https://github.com/RyanLua/Signs), an Roblox Studio plugin for creating signs.
 
-### Programming
-
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+### Programming languages: 
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ## Contact
 
