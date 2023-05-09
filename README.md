@@ -19,14 +19,4 @@ Currently, I have 2 public repositories on GitHub, [Shime](https://github.com/Ry
 
 You can contact me by sending a message to my Twitter handle [@RaenLua](https://twitter.com/RaenLua).
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=RyanLua&show_icons=true" />
-</picture>
+![Banner](Ryan%20Profile%20Banner.png)
