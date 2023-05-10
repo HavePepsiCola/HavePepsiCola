@@ -19,4 +19,4 @@ Currently, I have 2 public repositories on GitHub, [Shime](https://github.com/Ry
 
 You can contact me by click any of the above badges and contacting me from there. I check Discord regularly so you can message me there for fastest response time.
 
-![Banner](Ryan%20Profile%20Banner.png)
+![Banner](Banner.png)
