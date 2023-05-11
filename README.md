@@ -23,5 +23,16 @@ You can contact me by click any of the above badges and contacting me from there
 
 ---
 
-[![RyanLua's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RyanLua&text_bold=false&show_icons=true&disable_animations=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/RyanLua/github-readme-stats#gh-dark-mode-only)
-[![RyanLua's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RyanLua&text_bold=false&show_icons=true&disable_animations=true&theme=default#gh-light-mode-only)](https://github.com/RyanLua/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/RyanLua/RyanLua">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=github_dark_dimmed"
+   media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true&theme=default"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanLua&text_bold=false&custom_title=GitHub%20Stats&show_icons=true&disable_animations=true" />
+</picture>
+</a>
