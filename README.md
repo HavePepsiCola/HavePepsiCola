@@ -1,3 +1,5 @@
+![Banner](Banner.png)
+
 # :wave: I'm Ryan
 
 > Certified Amateur Student
@@ -19,4 +21,7 @@ Currently, I have 2 public repositories on GitHub, [Shime](https://github.com/Ry
 
 You can contact me by click any of the above badges and contacting me from there. I check Discord regularly so you can message me there for fastest response time.
 
-![Banner](Banner.png)
+---
+
+[![RyanLua's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RyanLua&show_icons=true&disable_animations=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/RyanLua/github-readme-stats#gh-dark-mode-only)
+[![RyanLua's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RyanLua&show_icons=true&disable_animations=true&theme=default#gh-light-mode-only)](https://github.com/RyanLua/github-readme-stats#gh-light-mode-only)
