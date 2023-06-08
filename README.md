@@ -2,7 +2,7 @@
 
 # :wave: I'm Ryan
 
-> Certified Amateur Student
+> [ryanlua.github.io](https://ryanlua.github.io/)
 
 ## About Me
 
