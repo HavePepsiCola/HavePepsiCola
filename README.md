@@ -17,7 +17,7 @@ I'm currently experienced in Lua and Python. I plan to learn more languages such
 ## Contact
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RaenLua)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/ET7k2nmU)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/bUBTWAjp)
 [![DevForum](https://img.shields.io/badge/DevForum-00a0ff?logo=robloxstudio&logoColor=white)](https://devforum.roblox.com/u/winnerstakesall)
 [![Roblox](https://img.shields.io/badge/Roblox-000000?logo=roblox&logoColor=white)](https://www.roblox.com/users/345072461/profile)
 
