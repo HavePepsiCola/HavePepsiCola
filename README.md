@@ -2,7 +2,7 @@
 
 # :wave: I'm Ryan
 
-> [ryanlua.github.io](https://ryanlua.github.io/)
+> [ryanluu.dev](https://www.ryanluu.dev/)
 
 ## About Me
 
