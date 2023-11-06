@@ -6,20 +6,20 @@
 
 ## About Me
 
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-I use GitHub for my projects and sometimes a bit of work. For now, I just develop on Roblox with Luau but I plan to expand into other languages and development platforms. You can check out [my website](https://www.ryanluu.dev/) if you want to keep up with my projects, work, and socials.
-
-I'm currently experienced in Lua and Python. I plan to learn more languages such as C#, JavaScript, and HTML soon.
+I use GitHub for my projects and sometimes a bit of work. For now, I just develop on Roblox with Luau but I plan to expand into other languages and development platforms.  I'm currently experienced in Lua and Python. I plan to learn more languages such as C#, JavaScript, and HTML soon.
 
 ## Contact
 
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/RaenLua)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/bUBTWAjp)
-[![DevForum](https://img.shields.io/badge/DevForum-00a0ff?logo=robloxstudio&logoColor=white)](https://devforum.roblox.com/u/winnerstakesall)
-[![Roblox](https://img.shields.io/badge/Roblox-000000?logo=roblox&logoColor=white)](https://www.roblox.com/users/345072461/profile)
+[![Website](https://img.shields.io/badge/website-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNicgdmlld0JveD0nMCAwIDE2IDE2Jz48cGF0aCBkPSdNOCAwYTggOCAwIDEgMSAwIDE2QTggOCAwIDAgMSA4IDBaTTUuNzggOC43NWE5LjY0IDkuNjQgMCAwIDAgMS4zNjMgNC4xNzdjLjI1NS40MjYuNTQyLjgzMi44NTcgMS4yMTUuMjQ1LS4yOTYuNTUxLS43MDUuODU3LTEuMjE1QTkuNjQgOS42NCAwIDAgMCAxMC4yMiA4Ljc1Wm00LjQ0LTEuNWE5LjY0IDkuNjQgMCAwIDAtMS4zNjMtNC4xNzdjLS4zMDctLjUxLS42MTItLjkxOS0uODU3LTEuMjE1YTkuOTI3IDkuOTI3IDAgMCAwLS44NTcgMS4yMTVBOS42NCA5LjY0IDAgMCAwIDUuNzggNy4yNVptLTUuOTQ0IDEuNUgxLjU0M2E2LjUwNyA2LjUwNyAwIDAgMCA0LjY2NiA1LjVjLS4xMjMtLjE4MS0uMjQtLjM2NS0uMzUyLS41NTItLjcxNS0xLjE5Mi0xLjQzNy0yLjg3NC0xLjU4MS00Ljk0OFptLTIuNzMzLTEuNWgyLjczM2MuMTQ0LTIuMDc0Ljg2Ni0zLjc1NiAxLjU4LTQuOTQ4LjEyLS4xOTcuMjM3LS4zODEuMzUzLS41NTJhNi41MDcgNi41MDcgMCAwIDAtNC42NjYgNS41Wm0xMC4xODEgMS41Yy0uMTQ0IDIuMDc0LS44NjYgMy43NTYtMS41OCA0Ljk0OC0uMTIuMTk3LS4yMzcuMzgxLS4zNTMuNTUyYTYuNTA3IDYuNTA3IDAgMCAwIDQuNjY2LTUuNVptMi43MzMtMS41YTYuNTA3IDYuNTA3IDAgMCAwLTQuNjY2LTUuNWMuMTIzLjE4MS4yNC4zNjUuMzUzLjU1Mi43MTQgMS4xOTIgMS40MzYgMi44NzQgMS41OCA0Ljk0OFonLz48L3N2Zz4=&logoColor=333333&style=for-the-badge)](https://www.ryanluu.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/raenlua)
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/RaenLua)
+[![YouTube](https://img.shields.io/badge/youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@RaenLua)
+[![DevForum](https://img.shields.io/badge/DevForum-00a0ff?logo=robloxstudio&logoColor=white&style=for-the-badge)](https://devforum.roblox.com/u/winnerstakesall)
+[![Guilded](https://img.shields.io/badge/guilded-f5c400?logo=guilded&logoColor=333333&style=for-the-badge)](https://www.guilded.gg/u/RaenLua)
+[![Patreon](https://img.shields.io/badge/patreon-black?logo=patreon&logoColor=white&style=for-the-badge)](https://www.patreon.com/RyanLuu)
+[![ArtStation](https://img.shields.io/badge/artstation-13aff0?logo=artstation&logoColor=white&style=for-the-badge)](https://www.artstation.com/ryan_luu)
 
-You can contact me by click any of the above badges and contacting me from there. I check Discord regularly so you can message me there for fastest response time.
+You can contact me by click any of the above badges and contacting me from there. Email is the fastest response times.
 
 ---
 
